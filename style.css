@@ -32,6 +32,8 @@ header h1{
 header p{
     font-size: larger;
     text-align: justify;
+    margin: 0%;
+    padding: 10px;
 }
 
 main h1{
